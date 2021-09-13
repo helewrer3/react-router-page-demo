@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/helewrer3/react-router-page-demo/static/css/main.a617e044.chunk.css",
+    "main.js": "/helewrer3/react-router-page-demo/static/js/main.eb70c1be.chunk.js",
+    "main.js.map": "/helewrer3/react-router-page-demo/static/js/main.eb70c1be.chunk.js.map",
+    "runtime-main.js": "/helewrer3/react-router-page-demo/static/js/runtime-main.790a6e9c.js",
+    "runtime-main.js.map": "/helewrer3/react-router-page-demo/static/js/runtime-main.790a6e9c.js.map",
+    "static/js/2.a1ead4e8.chunk.js": "/helewrer3/react-router-page-demo/static/js/2.a1ead4e8.chunk.js",
+    "static/js/2.a1ead4e8.chunk.js.map": "/helewrer3/react-router-page-demo/static/js/2.a1ead4e8.chunk.js.map",
+    "static/js/3.41681a4b.chunk.js": "/helewrer3/react-router-page-demo/static/js/3.41681a4b.chunk.js",
+    "static/js/3.41681a4b.chunk.js.map": "/helewrer3/react-router-page-demo/static/js/3.41681a4b.chunk.js.map",
+    "index.html": "/helewrer3/react-router-page-demo/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/helewrer3/react-router-page-demo/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.a1ead4e8.chunk.js.LICENSE.txt": "/helewrer3/react-router-page-demo/static/js/2.a1ead4e8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/helewrer3/react-router-page-demo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.790a6e9c.js",
+    "static/js/2.a1ead4e8.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.eb70c1be.chunk.js"
+  ]
+}
